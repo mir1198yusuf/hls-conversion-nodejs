@@ -1,0 +1,16 @@
+{
+    "name": "hls-streaming",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.1397.0",
+        "dotenv": "^16.1.4",
+        "fluent-ffmpeg": "^2.1.2"
+    }
+}
